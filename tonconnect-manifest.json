@@ -1,0 +1,17 @@
+{
+  "manifest_version": "2",
+  "name": "Tonnel Gifts",
+  "description": "Telegram NFT gifts marketplace",
+  "url": "https://tonnel-gifts.vercel.app",
+  "icons": [
+    {
+    "src": "https://tonnel-gifts.vercel.app/assets/favicon.svg",
+    "sizes": "any",
+    "type": "image/svg+xml"
+    }
+  ],
+  "bridge": {
+    "type": "external",
+    "url": "https://bridge.tonapi.io/bridge"
+  }
+}
